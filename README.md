@@ -8,3 +8,5 @@ Cambio desde github.
 
 Trabajo independiente en rama compartida.
 
+Cambios desde VSC
+
