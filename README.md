@@ -4,3 +4,7 @@ Añado esta línea con mi contacto desde rama: 666666666 (fperez@iessanvciente.c
 
 Cambio desde github.
 
+
+
+Trabajo independiente en rama compartida.
+
